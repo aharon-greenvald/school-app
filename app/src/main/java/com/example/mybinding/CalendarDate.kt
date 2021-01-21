@@ -1,4 +1,4 @@
 package com.example.mybinding
 
-class MonthFragment {
+class CalendarDate {
 }
